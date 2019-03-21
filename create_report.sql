@@ -1,5 +1,5 @@
 
-PROMPT Creating report of all employee who has salary greater than or equal to 50000
+PROMPT Creating report or csv file of all employee who has salary greater than or equal to 50000
 
 SET PAGESIZE 0
 SET LINESIZE 50
